@@ -4,4 +4,6 @@ pink
 orange 
 red
 blue
+green
+priyanshi
 these are the colours of rainbow

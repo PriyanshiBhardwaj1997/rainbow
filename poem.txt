@@ -1,4 +1,5 @@
-Rainbow
+Rainbow and the unicorn
+
 purple 
 pink
 orange 
@@ -6,4 +7,7 @@ red
 blue
 green
 priyanshi
+unicorn
+
 these are the colours of rainbow
+UNICORN
